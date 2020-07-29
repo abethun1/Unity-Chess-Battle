@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Fantasy Chess RPG Character - Arthur/Scenes/arthur.unity
+  isLoaded: 1
+  isActive: 1
